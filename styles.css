@@ -12,8 +12,13 @@ div>img{
 	height:100%;
 	object-fit:cover;
 }
+	.sec{
+		text-align:center;
+	}
 .sec2>button{
 	background-color:red;
 	align-item:center;
+	color:white;
+	border:none;
 }
 	
